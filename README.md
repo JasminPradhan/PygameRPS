@@ -1,4 +1,3 @@
-# MultiplayerGame
 # Rock Paper Scissors Multiplayer Game
 
 This is a multiplayer Rock-Paper-Scissors game implemented in Python using the `socket` module and `pygame` for the graphical interface. Players can connect to the server, play against each other, and see a leaderboard displaying the top three players based on their win streaks.
